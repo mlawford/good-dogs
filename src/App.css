@@ -16,10 +16,16 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.dog-foto {
+  width: 25%;
+  height: 25%;
 }
 
 @keyframes App-logo-spin {
